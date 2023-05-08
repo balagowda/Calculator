@@ -1,0 +1,60 @@
+div#calsi{
+    background-color: black;
+    width: 400px;
+    height: 503px;
+    margin: auto;
+    border-radius: 25px;
+}
+
+div#disp{
+    margin: 0px 0px 0px 15px;
+    margin-bottom: 0px;
+    border-radius: 5px 5px 0px 0px;
+    height: 67px;
+    width: 370px;
+    font-size: xx-large;
+    color: black;
+    background-color: aliceblue;
+    overflow:hidden;
+}
+
+div#sup{
+    height: 67px;
+    width: 370px;
+    margin: 15px;
+    margin-top: 0px;
+    font-size: xx-large;
+    overflow-x: scroll;
+    color: black;
+    background-color: aliceblue;
+    text-align: right;
+}
+
+table{
+    margin: auto;
+}
+button{
+    height: 60px;
+    width: 90px;
+    border-radius: 5px;
+    font-size: 25px;
+    border: 1px aqua solid;
+    
+}
+
+button:hover{
+    background-color: rgb(13, 12, 12);
+    color: aqua;
+}
+
+#clr{
+    background-color: rgb(246, 81, 35);
+}
+
+#logo{
+    color: aqua;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
